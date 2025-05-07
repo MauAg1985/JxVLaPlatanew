@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "MauAg1985",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143436034?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "MauAg1985",
     "title": "New Annotate",
@@ -71,6 +77,8 @@
       ]
     },
     "created_at": "2024-10-21T21:53:45.056Z",
-    "updated_at": "2024-10-21T21:53:45.056Z"
+    "updated_at": "2024-10-21T21:53:45.056Z",
+    "is_private": false,
+    "generate_pages_site": true
   }
 }
